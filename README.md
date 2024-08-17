@@ -5,15 +5,15 @@ Build a decision tree classifier to predict whether a customer will purchase a p
 
 ## Algorithm:
 
-### 1:
+### Step1:
 Load and explore the dataset.
-### 2:
+### Step2:
 Preprocess the data by encoding categorical variables and splitting into features and target.
-### 3:
+### Step3:
 Train the decision tree classifier on the training set.
-### 4:
+### Step4:
 Evaluate the model’s performance using metrics like accuracy and F1-score, and visualize the confusion matrix.
-### 5:
+### Step5:
 Visualize the decision tree and feature importance.
-### 6:
+### Step6:
 Interpret the results to gain insights into which features are most important in predicting customer purchases.
